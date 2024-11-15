@@ -31,4 +31,19 @@ Key visualizations include:
 - **Bar Plot**: Distribution of churned, stayed, and joined customers.  
 - **Heatmap**: Correlation matrix of features to identify relationships.  
 
+## Machine Learning Models
+This project applies machine learning classification models to predict customer churn. Two approaches were explored:
+1. **Without Feature Scaling**  
+2. **With Feature Scaling**
 
+### Steps Followed
+1. Data preprocessing to handle missing values, categorical variables, and scaling where required.
+2. Applied the following classification algorithms:
+   - Logistic Regression
+   - Random Forest
+   - Support Vector Machine (SVM)
+   - Decision Tree
+3. Evaluated the models using:
+   - **Accuracy**: Measures overall model correctness.
+   - **Confusion Matrix**: Summarizes prediction results for each class.
+   - **Recall**: Focuses on identifying churned customers (positive class).
