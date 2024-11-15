@@ -7,12 +7,7 @@ This project uses a telecom churn dataset from Kaggle to predict customer churn 
 2. [Dataset](#dataset)
 3. [Exploratory Data Analysis (EDA)](#exploratory-data-analysis)
 4. [Machine Learning Models](#machine-learning-models)
-5. [Results](#results)
-6. [Installation](#installation)
-7. [Usage](#usage)
-8. [Contributing](#contributing)
-9. [License](#license)
-10. [Contact](#contact)
+
 
 ## Project Overview
 Customer churn prediction helps businesses understand and address customer attrition.  
@@ -47,3 +42,4 @@ This project applies machine learning classification models to predict customer 
    - **Accuracy**: Measures overall model correctness.
    - **Confusion Matrix**: Summarizes prediction results for each class.
    - **Recall**: Focuses on identifying churned customers (positive class).
+
